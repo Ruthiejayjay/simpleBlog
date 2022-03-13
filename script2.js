@@ -42,7 +42,6 @@ function viewComment() {
             <h4>Name:${comments.name}</h4>
             <p>Email:${comments.email}</p>
             <p>${comments.body}</p>
-            <button class="delete">Delete</button>
            
         `
 
